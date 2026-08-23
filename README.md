@@ -1,66 +1,121 @@
+<div align="center">
+
 # AGASTYA
 
-**ECE · Embedded Systems · AI · Spatial Computing**
+### `ECE / EMBEDDED / AI / SYSTEMS`
 
-> Building at the intersection of hardware, software and the physical world.
+**I build things I don't fully understand yet.
+Then I figure them out.**
 
----
+<br>
 
-### ABOUT
+[ `PROJECTS` ] · [ `STACK` ] · [ `NOW` ]
 
-I'm an engineering student interested in understanding how systems work —
-from **electrons and sensors** to **data and intelligent decisions**.
-
-Currently exploring embedded systems, machine learning and geospatial computing.
+</div>
 
 ---
 
-### WORK
+<div align="center">
 
-**SMART IRRIGATION**
-*Terrain-aware irrigation for heterogeneous hilly farmland*
+### `// SYSTEM OVERVIEW`
 
-`GIS` `DEM` `IoT` `ESP32` `ML`
+</div>
 
-A spatial decision-support system that uses terrain characteristics to identify irrigation zones and make sensor deployment more efficient.
-
-**STATUS — `BUILDING`**
-
----
-
-**EMBEDDED SYSTEMS**
-
-`C` `C++` `ESP32` `SENSORS`
-
-Learning by building small systems and gradually moving toward more complex hardware-software integration.
-
-**STATUS — `LEARNING`**
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│   HARDWARE              SOFTWARE             DATA        │
+│   ────────              ────────             ────        │
+│   ESP32                 C / C++              GIS         │
+│   Sensors               Python               DEM         │
+│   Electronics           ML                   Spatial     │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
 
 ---
 
-### TOOLKIT
+## `01 / WHAT I'M BUILDING`
 
-`C` · `C++` · `Python` · `SQL`
-`ESP32` · `Arduino` · `PlatformIO`
-`Git` · `GitHub` · `VS Code` · `QGIS`
+### 🌐 TERRAIN × IRRIGATION
 
----
+**Smart irrigation for heterogeneous hilly farmland**
 
-### NOW
+What started as a simple irrigation problem turned into a spatial modelling problem.
 
-Learning **embedded C/C++**
-Building with **ESP32**
-Exploring **ML + GIS**
-Trying to turn ideas into things that actually work
+**DEM → terrain features → spatial zones → sensors → adaptive irrigation**
 
----
+`QGIS` `DEM` `ESP32` `IoT` `Machine Learning`
 
-### CONTACT
+> The goal: don't treat an entire hill like it's the same piece of land.
 
-[GitHub](https://github.com/agastya-ece)
+**`BUILD STATUS ━━━━━━━━━░░ 80%`**
 
 ---
 
-<p align="center">
-  <sub>build → test → fail → understand → repeat</sub>
-</p>
+### ⚡ EMBEDDED LAB
+
+A growing collection of experiments with microcontrollers, sensors and electronics.
+
+Currently:
+
+`ESP32` → `GPIO` → `Sensors` → `C/C++` → `???`
+
+The `???` is where things usually get interesting.
+
+---
+
+## `02 / STACK`
+
+<div align="center">
+
+### LANGUAGES
+
+`C`   `C++`   `Python`   `SQL`
+
+### HARDWARE
+
+`ESP32`   `Arduino`   `Sensors`
+
+### TOOLS
+
+`Git`   `VS Code`   `PlatformIO`   `QGIS`
+
+</div>
+
+---
+
+## `03 / CURRENTLY LOADING...`
+
+```text
+[████████████████░░░░]  Embedded Systems
+[██████████████░░░░░░]  C / C++
+[████████████░░░░░░░░]  Machine Learning
+[███████████░░░░░░░░░]  Geospatial Computing
+```
+
+---
+
+## `04 / MINDSET`
+
+> **Don't just use the abstraction.**
+>
+> Understand what's underneath it.
+
+---
+
+<div align="center">
+
+### `SYSTEM STATUS`
+
+`ONLINE`
+
+<br>
+
+**building • breaking • learning**
+
+<br><br>
+
+`github.com/agastya-ece`
+
+</div>
