@@ -3,8 +3,9 @@
 # AGASTYA
 
 ### `ECE / EMBEDDED / AI / SYSTEMS`
-<img src="[YOUR_BANNER_HERE](https://i.pinimg.com/1200x/39/a6/23/39a623a20b97d94188c6c4540fe14ecd.jpg)" width="100%">
-
+<div align="center">
+  <img src="https://i.pinimg.com/1200x/39/a6/23/39a623a20b97d94188c6c4540fe14ecd.jpg" width="100%">
+</div>
 **I build things I don't fully understand yet.
 Then I figure them out.**
 
@@ -72,7 +73,7 @@ The `???` is where things usually get interesting.
 
 ### LANGUAGES
 
-`C`   `C++`   `Python`   `SQL`
+`C`   `C++`   `Python`   
 
 ### HARDWARE
 
