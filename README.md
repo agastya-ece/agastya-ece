@@ -4,8 +4,7 @@
 
 ### [ECE]  ──  [EMBEDDED]  ──  [AI]  ──  [SYSTEMS]
 
-I build things I don't fully understand yet.
-Then I figure them out.
+Turning ideas into systems, one layer at a time.
 
 <br>
 
