@@ -2,7 +2,7 @@
 
 # AGASTYA
 
-### [ `ECE ] · [ `EMBEDDED` ] · [ `AI` ]
+### [ECE]  ──  [EMBEDDED]  ──  [AI]  ──  [SYSTEMS]
 <div align="center">
   <img src="https://i.pinimg.com/736x/25/fc/34/25fc34fce017ccad6229124e6f14cb2a.jpg" width="100%">
 </div>
