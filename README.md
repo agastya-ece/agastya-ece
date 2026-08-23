@@ -4,10 +4,10 @@
 
 ### `ECE / EMBEDDED / AI / SYSTEMS`
 <div align="center">
-  <img src="https://i.pinimg.com/1200x/39/a6/23/39a623a20b97d94188c6c4540fe14ecd.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/b4/57/28/b457287eca93ba2ef39d06ba8ea30ae0.jpg" width="100%">
 </div>
-**I build things I don't fully understand yet.
-Then I figure them out.**
+I build things I don't fully understand yet.
+Then I figure them out.
 
 <br>
 
