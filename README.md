@@ -1,6 +1,6 @@
 <div align="center">
 
-# AGASTYA
+# Agastya Raina
 
 ### [ECE]  ──  [EMBEDDED]  ──  [AI]  ──  [SYSTEMS]
 
