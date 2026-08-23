@@ -17,7 +17,7 @@ Then I figure them out.**
 
 <div align="center">
 
-### `// SYSTEM OVERVIEW`
+### `SYSTEM OVERVIEW`
 
 </div>
 
@@ -35,7 +35,7 @@ Then I figure them out.**
 
 ---
 
-## `01 / WHAT I'M BUILDING`
+## `🚀 WHAT I'M BUILDING`
 
 ### 🌐 TERRAIN × IRRIGATION
 
