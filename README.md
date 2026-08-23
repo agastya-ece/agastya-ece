@@ -3,8 +3,7 @@
 # AGASTYA
 
 ### `ECE / EMBEDDED / AI / SYSTEMS`
-<img src="![Uploading image.png…]()
-" width="100%">
+<img src="[YOUR_BANNER_HERE](https://i.pinimg.com/1200x/39/a6/23/39a623a20b97d94188c6c4540fe14ecd.jpg)" width="100%">
 
 **I build things I don't fully understand yet.
 Then I figure them out.**
