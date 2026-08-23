@@ -1,52 +1,132 @@
-# Hey, I'm Agastya 👋
+# `agastya@github:~$`
 
-### ECE Student | Embedded Systems | C/C++
+```bash
+$ whoami
+agastya
 
-I'm an Electronics & Communication Engineering student exploring the intersection of **hardware and software**.
+$ cat about.txt
+ECE student interested in the intersection of hardware,
+software, AI, and the physical world.
 
-Currently learning by building projects with microcontrollers, sensors, and C/C++.
-
----
-
-## 🔧 What I'm Working On
-
-- 🌱 Learning **C and C++**
-- ⚡ Exploring **ESP32 & embedded systems**
-- 🌡️ Building sensor-based projects
-- 🔌 Learning how hardware and software work together
-- 🐙 Getting comfortable with **Git & GitHub**
-
----
-
-## 🛠️ Tech I'm Learning
-
-**Languages**
-
-`C` `C++` `Python`
-
-**Hardware & Embedded**
-
-`ESP32` `Arduino` `DHT11`
-
-**Tools**
-
-`Git` `GitHub` `VS Code` `PlatformIO`
+Currently building with:
+→ Embedded systems
+→ C / C++
+→ Python
+→ ESP32
+→ GIS / spatial computing
+→ Machine Learning
+```
 
 ---
 
-## 🚀 Projects
+```text
+┌─────────────────────────────────────────────────────────────┐
+│  SYSTEM STATUS                                              │
+├─────────────────────────────────────────────────────────────┤
+│  OS            Student.exe                                  │
+│  Focus         Embedded Systems + AI                        │
+│  Hardware      ESP32                                       │
+│  Languages     C · C++ · Python · SQL                       │
+│  Tools         Git · GitHub · VS Code · QGIS · PlatformIO  │
+│  Status        ONLINE                                       │
+└─────────────────────────────────────────────────────────────┘
+```
 
-🔹 **ESP32 Blink** — My first microcontroller project  
-🔹 **ESP32 + DHT11** — Temperature & humidity monitoring
+### `~/projects`
 
-More projects coming as I learn and build.
+```bash
+$ ls -la projects/
+
+drwxr-xr-x  smart-irrigation/
+drwxr-xr-x  embedded-systems/
+drwxr-xr-x  spatial-analysis/
+```
+
+#### `smart-irrigation/`
+
+**Terrain-aware irrigation for heterogeneous hilly farmland.**
+
+Combining **DEM analysis + GIS + IoT + ML** to divide complex terrain into meaningful irrigation zones.
+
+```text
+DEM
+ │
+ ├── Elevation
+ ├── Slope
+ ├── Aspect
+ ├── Curvature
+ └── Wetness
+        │
+        ▼
+   Terrain Zones
+        │
+        ▼
+   Sensor Placement
+        │
+        ▼
+ Adaptive Irrigation
+```
+
+#### `embedded-systems/`
+
+Experimenting with **ESP32, sensors, actuators and real-world hardware**.
+
+Currently learning how to make tiny pieces of silicon do useful things instead of just blink LEDs.
+*(The LED was step one. Obviously.)*
 
 ---
 
-## 📚 Currently Learning
+### `~/stack`
 
-> Embedded systems • C/C++ • Git • Electronics • Open Source
+```text
+LANGUAGES
+────────────────────────────────────────
+C          █████████░░
+C++        ████████░░░
+Python     ███████░░░░
+SQL        █████░░░░░░
+
+TECH
+────────────────────────────────────────
+ESP32      ███████░░░░
+Embedded   ██████░░░░░
+GIS        ██████░░░░░
+ML         █████░░░░░░
+```
 
 ---
 
-### ⚡ Build. Break. Debug. Repeat.
+### `~/currently`
+
+```bash
+$ ps aux | grep agastya
+
+LEARNING    → Embedded C/C++
+BUILDING    → ESP32 projects
+EXPLORING   → Machine Learning
+EXPLORING   → Geospatial Computing
+DEBUGGING   → Everything
+```
+
+---
+
+### `~/philosophy`
+
+> `Build it. Break it. Understand why. Build it better.`
+
+---
+
+### `~/contact`
+
+```bash
+$ echo $GITHUB
+github.com/agastya-ece
+
+$ echo $STATUS
+building...
+```
+
+<p align="center">
+  <sub>Last updated: 2026</sub>
+</p>
+
