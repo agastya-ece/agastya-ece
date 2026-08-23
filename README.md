@@ -3,55 +3,78 @@
 # AGASTYA
 
 ### `ECE / EMBEDDED / AI / SYSTEMS`
-<div align="center">
-  <img src="https://i.pinimg.com/736x/b4/57/28/b457287eca93ba2ef39d06ba8ea30ae0.jpg" width="100%">
-</div>
-I build things I don't fully understand yet.
-Then I figure them out.
+
+<img src="https://i.pinimg.com/736x/b4/57/28/b457287eca93ba2ef39d06ba8ea30ae0.jpg" width="100%">
 
 <br>
 
-[ `PROJECTS` ] · [ `STACK` ] · [ `NOW` ]
+**I build things I don't fully understand yet.**
+**Then I figure them out.**
+
+<br>
+
+`PROJECTS`  ·  `STACK`  ·  `NOW`
 
 </div>
 
 ---
+
+## `01 / SYSTEM OVERVIEW`
 
 <div align="center">
 
-### `SYSTEM OVERVIEW`
+```text
+        HARDWARE                    SOFTWARE
+     ┌─────────────┐            ┌─────────────┐
+     │   ESP32     │            │    C/C++    │
+     │   SENSORS   │ ─────────▶ │   PYTHON    │
+     │ ELECTRONICS │            │     ML      │
+     └─────────────┘            └──────┬──────┘
+                                       │
+                                       ▼
+                                ┌─────────────┐
+                                │    DATA     │
+                                │  GIS / DEM  │
+                                │   SPATIAL   │
+                                └─────────────┘
+```
 
 </div>
 
-```text
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│   HARDWARE              SOFTWARE             DATA        │
-│   ────────              ────────             ────        │
-│   ESP32                 C / C++              GIS         │
-│   Sensors               Python               DEM         │
-│   Electronics           ML                   Spatial     │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
-
 ---
 
-## `🚀 WHAT I'M BUILDING`
+## `02 / WHAT I'M BUILDING`
 
 ### 🌐 TERRAIN × IRRIGATION
 
 **Smart irrigation for heterogeneous hilly farmland**
 
-What started as a simple irrigation problem turned into a spatial modelling problem.
+What started as an irrigation problem turned into a **spatial modelling problem**.
 
-**DEM → terrain features → spatial zones → sensors → adaptive irrigation**
+```text
+DEM
+ │
+ ├── Elevation
+ ├── Slope
+ ├── Aspect
+ ├── Curvature
+ └── Wetness
+       │
+       ▼
+  TERRAIN ZONES
+       │
+       ▼
+ SENSOR PLACEMENT
+       │
+       ▼
+ADAPTIVE IRRIGATION
+```
 
 `QGIS` `DEM` `ESP32` `IoT` `Machine Learning`
 
-> The goal: don't treat an entire hill like it's the same piece of land.
+> Don't treat an entire hill like it's the same piece of land.
 
-**`BUILD STATUS ━━━━━━━━━░░ 80%`**
+**STATUS — `BUILDING`**
 
 ---
 
@@ -59,50 +82,61 @@ What started as a simple irrigation problem turned into a spatial modelling prob
 
 A growing collection of experiments with microcontrollers, sensors and electronics.
 
-Currently:
+```text
+ESP32
+ ├── GPIO
+ ├── Sensors
+ ├── Serial
+ ├── Actuators
+ └── eventually... something useful
+```
 
-`ESP32` → `GPIO` → `Sensors` → `C/C++` → `???`
+Currently learning how hardware and software actually talk to each other.
 
-The `???` is where things usually get interesting.
+**STATUS — `LEARNING`**
 
 ---
 
-## `STACK`
+## `03 / STACK`
 
 <div align="center">
 
 ### LANGUAGES
 
-`C`   `C++`   `Python`   
+`C` · `C++` · `Python` · `SQL`
 
-### HARDWARE
+### EMBEDDED
 
-`ESP32`   `Arduino`   `Sensors`
+`ESP32` · `Arduino` · `Sensors`
 
 ### TOOLS
 
-`Git`   `VS Code`   `PlatformIO`   `QGIS`
+`Git` · `GitHub` · `VS Code` · `PlatformIO` · `QGIS`
 
 </div>
 
 ---
 
-## `CURRENTLY LOADING...`
+## `04 / CURRENTLY`
 
 ```text
-[████████████████░░░░]  Embedded Systems
-[██████████████░░░░░░]  C / C++
-[████████████░░░░░░░░]  Machine Learning
-[███████████░░░░░░░░░]  Geospatial Computing
+EMBEDDED SYSTEMS       ████████████████░░░░
+C / C++                ██████████████░░░░░░
+GEOSPATIAL COMPUTING   ████████████░░░░░░░░
+MACHINE LEARNING       ███████████░░░░░░░░░
 ```
 
 ---
 
-## `MINDSET`
+## `05 / MINDSET`
+
+<div align="center">
 
 > **Don't just use the abstraction.**
 >
-> Understand what's underneath it.
+> **Understand what's underneath it.**
+
+</div>
 
 ---
 
@@ -110,14 +144,14 @@ The `???` is where things usually get interesting.
 
 ### `SYSTEM STATUS`
 
-`ONLINE`
+`● ONLINE`
 
 <br>
 
-**building • breaking • learning**
+**building · breaking · learning**
 
 <br><br>
 
-`github.com/agastya-ece`
+<sub>github.com/agastya-ece</sub>
 
 </div>
