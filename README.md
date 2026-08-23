@@ -3,6 +3,8 @@
 # AGASTYA
 
 ### `ECE / EMBEDDED / AI / SYSTEMS`
+<img src="![Uploading image.png…]()
+" width="100%">
 
 **I build things I don't fully understand yet.
 Then I figure them out.**
@@ -65,7 +67,7 @@ The `???` is where things usually get interesting.
 
 ---
 
-## `02 / STACK`
+## `STACK`
 
 <div align="center">
 
@@ -85,7 +87,7 @@ The `???` is where things usually get interesting.
 
 ---
 
-## `03 / CURRENTLY LOADING...`
+## `CURRENTLY LOADING...`
 
 ```text
 [████████████████░░░░]  Embedded Systems
@@ -96,7 +98,7 @@ The `???` is where things usually get interesting.
 
 ---
 
-## `04 / MINDSET`
+## `MINDSET`
 
 > **Don't just use the abstraction.**
 >
