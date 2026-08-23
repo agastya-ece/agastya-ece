@@ -3,9 +3,7 @@
 # AGASTYA
 
 ### [ECE]  ──  [EMBEDDED]  ──  [AI]  ──  [SYSTEMS]
-<div align="center">
-  <img src="https://i.pinimg.com/736x/25/f4/e5/25f4e57c140bdb40401faa7c58bafca8.jpg" width="100%">
-</div>
+
 I build things I don't fully understand yet.
 Then I figure them out.
 
