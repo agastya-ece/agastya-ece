@@ -4,7 +4,7 @@
 
 ### `ECE / EMBEDDED / AI / SYSTEMS`
 <div align="center">
-  <img src="https://i.pinimg.com/736x/b4/57/28/b457287eca93ba2ef39d06ba8ea30ae0.jpg" width="100%">
+  <img src="https://i.pinimg.com/736x/25/fc/34/25fc34fce017ccad6229124e6f14cb2a.jpg" width="100%">
 </div>
 I build things I don't fully understand yet.
 Then I figure them out.
