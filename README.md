@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/agastya-ece/agastya-ece/main/banner.png"
+       width="100%"
+       alt="Agastya | Engineering Portfolio"/>
+</div>
 
 # Agastya Raina
 
