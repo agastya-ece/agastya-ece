@@ -128,7 +128,7 @@ The `???` is where things usually get interesting.
 <div align="center">
 
 
-<img src="https://img.shields.io/badge/Embedded%20Systems%20and%20AI-8A2BE2"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Agastya_Raina-blue"/>
 </a>
 
 &nbsp;&nbsp;
