@@ -13,7 +13,6 @@
 </div>
 
 <br>
-### [ECE]  ──  [EMBEDDED]  ──  [AI]  ──  [SYSTEMS]
 
 <div align="center">
 
