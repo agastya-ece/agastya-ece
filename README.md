@@ -11,13 +11,9 @@
 </a>
 
 &nbsp;&nbsp;
-
 </h3>
-
 </div>
-
 <br>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=B0B0B0&center=true&vCenter=true&width=900&lines=Turning+ideas+into+systems%2C+one+layer+at+a+time." />
