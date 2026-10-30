@@ -4,7 +4,7 @@
        alt="Agastya | Engineering Portfolio"/>
 </div>
 <div align="center">
-# Agastya Raina
+#Agastya Raina
 
 ### [ECE]  ──  [EMBEDDED]  ──  [AI]  ──  [SYSTEMS]
 
