@@ -7,7 +7,11 @@
 <h1 align="center">Agastya Raina</h1>
 
 <h3 align="center">
-  ECE &nbsp; ── &nbsp; EMBEDDED &nbsp; ── &nbsp; AI &nbsp; ── &nbsp; SYSTEMS
+<img src="https://img.shields.io/badge/Embedded%20Systems%20and%20AI-8A2BE2"/>
+</a>
+
+&nbsp;&nbsp;
+
 </h3>
 
 </div>
@@ -131,8 +135,8 @@ The `???` is where things usually get interesting.
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/agastya-raina-4b32b8417/">
-<img src="https://img.shields.io/badge/linkedin-agastya-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Embedded%20Systems%20and%20AI-8A2BE2"/>
 </a>
 
 &nbsp;&nbsp;
