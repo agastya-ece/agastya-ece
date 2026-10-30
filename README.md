@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/agastya-ece/agastya-ece/main/banner.png"
+  <img src="https://raw.githubusercontent.com/agastya-ece/agastya-ece/main/25f4e57c140bdb40401faa7c58bafca8.jpg"
        width="100%"
        alt="Agastya | Engineering Portfolio"/>
 </div>
