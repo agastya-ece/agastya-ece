@@ -112,3 +112,14 @@ The `???` is where things usually get interesting.
 <br>
 
 **building • breaking • learning**
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/agastya-raina-4b32b8417/">
+<img src="https://img.shields.io/badge/linkedin-agastya-blue?style=for-the-badge"/>
+</a>
+
+&nbsp;&nbsp;
+
